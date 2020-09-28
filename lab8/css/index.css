@@ -1,0 +1,64 @@
+div#photos {
+  float:right
+}
+
+img {
+  width: 500px;
+}
+
+img.swag:hover,
+img.swag:focus {
+  width: 800px;
+}
+
+span {
+  color: red;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 15px;
+}
+
+span.boop {
+  font-size: 40px;
+  color: white;
+  font-weight: normal;
+  font-style: normal;
+}
+
+div#baller {
+  font-size: 90px;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+  border-style: solid;
+  margin-right: 1300px;
+  background-color: gold;
+}
+
+h1 {
+  font-size: 30px;
+  border-style: solid;
+  background-color: lightblue;
+  margin-right: 1300px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  border-style: solid;
+  background-color: lightblue;
+  margin-right: 1300px;
+  text-align: center;
+}
+
+p#test {
+  margin-right: 550px;
+}
+p {
+  font-size: 20px
+}
+
+body {
+  background-color: lightgray;
+}
