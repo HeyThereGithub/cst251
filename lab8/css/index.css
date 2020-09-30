@@ -62,3 +62,10 @@ p {
 body {
   background-color: lightgray;
 }
+
+div#link {
+  font-family: monospace;
+  font-style: italic;
+  border-style: double;
+  padding: 10px 10px 10px 10px
+}
