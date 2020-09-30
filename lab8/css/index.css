@@ -67,5 +67,6 @@ div#link {
   font-family: monospace;
   font-style: italic;
   border-style: double;
-  padding: 10px 10px 10px 10px
+  padding: 10px 10px 10px 10px;
+  text-align: center;
 }
