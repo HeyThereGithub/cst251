@@ -1,0 +1,58 @@
+div#content {
+}
+
+body {
+  background-color: #121212;
+}
+
+h1 {
+  font-family: "Monoton";
+  color: black;
+  text-shadow: 2px 2px 10px white;
+  text-align: center;
+}
+
+p {
+  font-family: "Lexend Deca";
+  color: white;
+}
+
+div#photo {
+  float: right;
+  text-align: center;
+  width: 350px;
+  margin-right: 30px
+}
+
+img {
+  border: 24px solid white;
+}
+
+p#photocaption {
+  font-size: 20px;
+  margin-top: -4px;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 20px;
+  background-color: white;
+  color: black;
+}
+
+a.link{
+  font-family: "Lexend Deca";
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  color: white;
+}
+
+div#links {
+  background-color: #00293B;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  width: 400px;
+}
