@@ -2,7 +2,7 @@ div#content {
 }
 
 body {
-  background-color: #121212;
+  background-image: radial-gradient(black, gray, white)
 }
 
 h1 {
@@ -15,6 +15,7 @@ h1 {
 p {
   font-family: "Lexend Deca";
   color: white;
+  text-shadow: 2px 2px 10px white;
 }
 
 div#photo {
