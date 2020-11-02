@@ -30,6 +30,11 @@ p#forewordtext {
   animation-name: examples;
   animation-duration: 5s;
   animation-iteration-count: infinite;
+  transition: font-size 1s;
+}
+
+p#forewordtext:hover {
+  font-size: 50px;
 }
 
 @keyframes examples {

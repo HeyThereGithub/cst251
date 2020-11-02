@@ -1,0 +1,23 @@
+div#header {
+  width: 75%;
+  height: auto;
+  float: left;
+}
+
+div#nav {
+  width: 24%;
+  height: auto;
+  float: left;
+}
+
+div#aside {
+  width: 24%;
+  height: auto;
+  float: left;
+}
+
+div#footer {
+  width: 100%;
+  height: auto;
+  float: left;
+}
