@@ -1,0 +1,64 @@
+div#section1 {
+  text-align: center;
+}
+
+div#section2 {
+  text-align: center;
+}
+
+div#section3 {
+  text-align: center;
+}
+
+div.container-fluid {
+  text-align: center;
+}
+
+img#stan {
+  width: 100%;
+  height: auto;
+}
+
+h4#stan {
+  text-align: center;
+}
+
+img#kim {
+  width: 100%;
+  height: auto;
+}
+
+h4#kim {
+  text-align: center;
+}
+
+img#pat {
+  width: 100%;
+  height: auto;
+}
+
+h4#pat {
+  text-align: center;
+}
+
+img#ilya {
+  width: 100%;
+  height: auto;
+}
+
+h4#ilya {
+  text-align: center;
+}
+
+img#whil {
+  width: 100%;
+  height: auto;
+}
+
+h4#whil {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
